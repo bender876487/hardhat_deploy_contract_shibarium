@@ -12,3 +12,4 @@ npx hardhat node
 npx hardhat run scripts/deploy.js
 ```
 # hardhat_deploy_contract_shibarium
+# hardhat_deploy_contract_shibarium

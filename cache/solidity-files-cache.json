@@ -1,0 +1,287 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/media/ubuntu/shareddir1/karametron/hardhat_deploy_contract_shibarium/contracts/ContractManagerSol.sol": {
+      "lastModificationDate": 1687927212370,
+      "contentHash": "161aa854b07ea8757b9364eb1a0e72cb",
+      "sourceName": "contracts/ContractManagerSol.sol",
+      "solcConfig": {
+        "version": "0.8.9",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "ContractManagerSol"
+      ]
+    },
+    "/media/ubuntu/shareddir1/karametron/hardhat_deploy_contract_shibarium/contracts/helloworld3.sol": {
+      "lastModificationDate": 1687927212354,
+      "contentHash": "2b6bc9f4ce1d34c190bd7feae3c7dbf8",
+      "sourceName": "contracts/helloworld3.sol",
+      "solcConfig": {
+        "version": "0.8.9",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "0.8.9"
+      ],
+      "artifacts": [
+        "helloworld3"
+      ]
+    },
+    "/media/ubuntu/shareddir1/karametron/hardhat_deploy_contract_shibarium/contracts/SimpleSidetreeAnchor.sol": {
+      "lastModificationDate": 1687934112414,
+      "contentHash": "8a14b99c510a27acda2001f35306884b",
+      "sourceName": "contracts/SimpleSidetreeAnchor.sol",
+      "solcConfig": {
+        "version": "0.8.9",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "0.8.9"
+      ],
+      "artifacts": [
+        "SimpleSidetreeAnchor"
+      ]
+    },
+    "/media/ubuntu/shareddir1/karametron/hardhat_deploy_contract_shibarium/contracts/helloworld4.sol": {
+      "lastModificationDate": 1687936291293,
+      "contentHash": "e3f0a2084f28d5f050dfb622c6dc3d2c",
+      "sourceName": "contracts/helloworld4.sol",
+      "solcConfig": {
+        "version": "0.8.9",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "0.8.9"
+      ],
+      "artifacts": [
+        "helloworld4"
+      ]
+    },
+    "/media/ubuntu/shareddir1/karametron/hardhat_deploy_contract_shibarium/contracts/Counter.sol": {
+      "lastModificationDate": 1687955841372,
+      "contentHash": "9dfb9503b20acdeac343bd1c2481c201",
+      "sourceName": "contracts/Counter.sol",
+      "solcConfig": {
+        "version": "0.8.9",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "0.8.9"
+      ],
+      "artifacts": [
+        "Counter"
+      ]
+    },
+    "/media/ubuntu/shareddir1/karametron/hardhat_deploy_contract_shibarium/contracts/Greeter.sol": {
+      "lastModificationDate": 1687979520628,
+      "contentHash": "e621704c293383b52c6d456f513bd323",
+      "sourceName": "contracts/Greeter.sol",
+      "solcConfig": {
+        "version": "0.8.9",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [
+        "hardhat/console.sol"
+      ],
+      "versionPragmas": [
+        "0.8.9"
+      ],
+      "artifacts": [
+        "Greeter"
+      ]
+    },
+    "/media/ubuntu/shareddir1/karametron/hardhat_deploy_contract_shibarium/node_modules/hardhat/console.sol": {
+      "lastModificationDate": 1687927898214,
+      "contentHash": "e2884fb4e1ef4b4a7c7ac3a227880b0f",
+      "sourceName": "hardhat/console.sol",
+      "solcConfig": {
+        "version": "0.8.9",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        ">= 0.4.22 <0.9.0"
+      ],
+      "artifacts": [
+        "console"
+      ]
+    },
+    "/media/ubuntu/shareddir1/karametron/hardhat_deploy_contract_shibarium/contracts/EventEmitter.sol": {
+      "lastModificationDate": 1687982257278,
+      "contentHash": "ff203d0b345fca06009271ef86bd9a7b",
+      "sourceName": "contracts/EventEmitter.sol",
+      "solcConfig": {
+        "version": "0.8.9",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "0.8.9"
+      ],
+      "artifacts": [
+        "EventEmitter"
+      ]
+    }
+  }
+}

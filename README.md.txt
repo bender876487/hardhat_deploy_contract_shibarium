@@ -13,6 +13,14 @@ npm install fix
 #run the contracts
 node scripts/deploycontract_catchevent_etc.js
 
+
+
+
+#OUTPUT
+Event MyEvent with args
+Event MyEventWithData with args 42,foo
+
+
 #check the link
 #https://hardhat.org/tutorial/deploying-to-a-live-network
 
